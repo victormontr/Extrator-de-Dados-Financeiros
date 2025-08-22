@@ -1,110 +1,399 @@
 ﻿Código;Ação
-ABEV3;Ambev
-AERI3;Aeris
-ALOS3;Allos
-ALPA4;Alpargatas
-ANIM3;Ânima Educação
-ARML3;Armac
-ARZZ3;Arezzo
-ASAI3;Assaí
-AZUL4;Azul
-B3SA3;B3
 BBAS3;Banco do Brasil
-BBDC3;Bradesco
-BBDC4;Bradesco
-BBSE3;BB Seguridade
-BEEF3;Minerva
-BHIA3;Casas Bahia
-BMGB4;Banco BMG
-BPAC11;BTG Pactual
-BPAN4;Banco Pan
-BRAP4;Bradespar
-BRFS3;BRF
-BRKM5;Braskem
-BRML3;BR Malls
-CCRO3;CCR
-CEAB3;C&A
-CIEL3;Cielo
-CMIG4;Cemig
-CMIN3;CSN Mineração
 COGN3;Cogna
-CPFE3;CPFL Energia
-CPLE6;Copel
-CRFB3;Carrefour Brasil
-CSAN3;Cosan
-CSNA3;CSN
-CVCB3;CVC
-CYRE3;Cyrela
-DXCO3;Dexco
-ELET3;Eletrobras
-ELET6;Eletrobras
-EMBR3;Embraer
-ENBR3;EDP Brasil
-ENEV3;Eneva
-ENGI11;Energisa
-EQTL3;Equatorial
-EZTC3;EZTec
-FLRY3;Fleury
-GGBR4;Gerdau
-GETT11;Getnet
-GOAU4;Metalúrgica Gerdau
-GRND3;Grendene
-HAPV3;Hapvida
-HYPE3;Hypera
-IGTI11;Iguatemi
-IRBR3;IRB Brasil
-ITSA4;Itaúsa
-ITUB4;Itaú Unibanco
-JBSS3;JBS
-KLBN11;Klabin
-LOGG3;LOG Commercial Properties
-LREN3;Lojas Renner
-LWSA3;LWSA
-MATD3;Mater Dei
-MGLU3;Magazine Luiza
-MEAL3;International Meal Company
-MILS3;Mills
-MOVI3;Movida
-MRFG3;Marfrig
-MRVE3;MRV
-MULT3;Multiplan
-NTCO3;Natura
-NEOE3;Neoenergia
-ODPV3;Odontoprev
-OFSA3;Omega Energia
-PCAR3;Pão de Açúcar
-PETR3;Petrobras
+B3SA3;B3
+BBDC4;Banco Bradesco
 PETR4;Petrobras
-PETZ3;Petz
-POSI3;Positivo
-PRIO3;PRIO
-RADL3;Raia Drogasil
-RAIL3;Rumo
+PCAR3;Grupo Pão de Açúcar
 RAIZ4;Raízen
-RDOR3;Rede D'Or
-RECV3;PetroRecôncavo
-RENT3;Localiza
-SANB11;Santander Brasil
-SBSP3;Sabesp
-SEQL3;Sequoia Logística
-SHOW3;Time For Fun
-SLCE3;SLC Agrícola
-SMTO3;São Martinho
-SLED4;Saraiva
-SOMA3;Grupo Soma
-STBP3;Santos Brasil
-SUZB3;Suzano
-TAEE11;Taesa
-TIMS3;TIM
-TOTS3;Totvs
-TRPL4;Transmissão Paulista
-UGPA3;Ultrapar
-USIM5;Usiminas
+ITSA4;Itaúsa
+ABEV3;Ambev
+CSAN3;Cosan
+RAIL3;Rumo
+ITUB4;Itaú Unibanco
+ASAI3;Assaí
+RADL3;RaiaDrogasil
+ANIM3;Ânima Educação
+MGLU3;Magazine Luiza
+LREN3;Lojas Renner
+BEEF3;Minerva
+CSMG3;COPASA
 VALE3;Vale
-VAMO3;Vamos
+CMIG4;Cemig
+AZUL4;Azul
+PETR3;Petrobras
+CBAV3;CBA
+PETZ3;Petz
+VAMO3;Grupo Vamos
+AURE3;Auren Energia
+MOTV3;Motiva
+BPAC11;Banco BTG Pactual
+SIMH3;Simpar
 VBBR3;Vibra Energia
-VIIA3;Via
-VIVT3;Telefônica Brasil
-VULC3;Vulcabras
+CVCB3;CVC
+MRVE3;MRV
+EQTL3;Equatorial Energia
+ENEV3;Eneva
+POMO4;Marcopolo
+PRIO3;PetroRio
+HAPV3;Hapvida
+USIM5;Usiminas
+GMAT3;Grupo Mateus
+GGBR4;Gerdau
+CPLE6;Copel
+BRFS3;BRF
+ELET3;Eletrobras
+CSNA3;Siderúrgica Nacional
+ONCO3;Oncoclínicas
+BRAV3;3R Petroleum
+EMBR3;Embraer
+UGPA3;Ultrapar
+BBDC3;Banco Bradesco
+MRFG3;Marfrig
+LWSA3;Locaweb
+ALOS3;Allos
+YDUQ3;YDUQS
+RDOR3;Rede D'Or
 WEGE3;WEG
-YDUQ3;Yduqs
+FLRY3;Fleury
+RENT3;Localiza
+TIMS3;TIM
+CEAB3;C&A
+SRNA3;Serena Energia
+VIVT3;Vivo
+ECOR3;EcoRodovias
+GOAU4;Metalúrgica Gerdau
+DIRR3;Direcional
+MOVI3;Movida
+BRKM5;Braskem
+PSSA3;Porto Seguro
+CYRE3;Cyrela
+BRAP4;Bradespar
+BBSE3;BB Seguridade
+IGTI11;Jereissati Participações
+IGTI11;Iguatemi
+MULT3;Multiplan
+STBP3;Santos Brasil
+CMIN3;CSN Mineração
+RAPT4;Randon
+KLBN11;Klabin
+HYPE3;Hypera
+BHIA3;Casas Bahia
+CXSE3;Caixa Seguridade
+TOTS3;Totvs
+HBSA3;Hidrovias do Brasil
+SANB11;Banco Santander
+JHSF3;JHSF
+SLCE3;SLC Agrícola
+RECV3;PetroRecôncavo
+CURY3;Cury
+CPLE3;Copel
+SMFT3;Smart Fit
+KLBN4;Klabin
+SUZB3;Suzano
+SBSP3;Sabesp
+SMTO3;São Martinho
+ISAE4;ISA Energia
+GGPS3;GPS
+MLAS3;Multilaser
+LIGT3;Light
+VIVA3;Vivara
+TAEE11;Taesa
+AZTE3;AZT Energia
+EVEN3;Even
+TUPY3;Tupy
+GRND3;Grendene
+AZEV4;Azevedo & Travassos
+INTB3;Intelbras
+HBOR3;Helbor
+ODPV3;Odontoprev
+OIBR3;Oi
+AZZA3;Arezzo
+ENGI11;Energisa
+EGIE3;Engie
+SBFG3;Grupo SBF
+ALPA4;Alpargatas
+VVEO3;Viveo
+CPFE3;CPFL Energia
+MDNE3;Moura Dubeux
+LJQQ3;Lojas Quero-Quero
+JALL3;Jalles Machado
+SAPR11;Sanepar
+CASH3;Méliuz
+PLPL3;Plano&Plano
+AZEV3;Azevedo & Travassos
+BRSR6;Banrisul
+QUAL3;Qualicorp
+ELET6;Eletrobras
+GUAR3;Guararapes
+DXCO3;Dexco
+KEPL3;Kepler Weber
+PGMN3;Pague Menos
+DASA3;Dasa
+TTEN3;3tentos
+ALUP11;Alupar
+EZTC3;EZTEC
+CAML3;Camil Alimentos
+TEND3;Construtora Tenda
+SOJA3;Boa Safra Sementes
+ORVR3;Orizon
+SAPR4;Sanepar
+ZAMP3;Zamp
+VULC3;Vulcabras
+MYPK3;Iochpe-Maxion
+AMER3;Americanas
+LAVV3;Lavvi Incorporadora
+RCSL4;Recrusul
+MILS3;Mills
+ENJU3;Enjoei
+NEOE3;Neoenergia
+JSLG3;JSL
+SEER3;Ser Educacional
+IFCM3;Infracommerce
+AMBP3;Ambipar
+MTRE3;Mitre Realty
+ITUB3;Itaú Unibanco
+IRBR3;IRB Brasil RE
+FESA4;Ferbasa
+MELK3;Melnick
+POSI3;Positivo
+BMOB3;Bemobi
+MDIA3;M. Dias Branco
+ARML3;Armac
+TFCO4;Track & Field
+BPAN4;Banco Pan
+PORT3;Wilson Sons
+FRAS3;Fras-le
+SHUL4;Schulz
+TASA4;Taurus
+PMAM3;Paranapanema
+SYNE3;SYN
+TRIS3;Trisul
+FIQE3;Unifique
+ESPA3;Espaçolaser
+PRNR3;Priner
+OPCT3;OceanPact
+MATD3;Mater Dei
+TGMA3;Tegma
+LUPA3;Lupatech
+USIM3;Usiminas
+WIZC3;Wiz Soluções
+PTBL3;Portobello
+KLBN3;Klabin
+PNVL3;Dimed
+ABCB4;Banco ABC Brasil
+BLAU3;Blau Farmacêutica
+PTNT4;Pettenati
+BMGB4;Banco BMG
+RANI3;Irani
+HBRE3;HBR Realty
+LEVE3;Mahle Metal Leve
+PINE4;Banco Pine
+CSED3;Cruzeiro do Sul Educacional
+GFSA3;Gafisa
+VLID3;Valid
+PFRM3;Profarma
+BRST3;Brisanet
+VTRU3;VITRUBREPCOM
+TAEE4;Taesa
+AMAR3;Lojas Marisa
+BRBI11;BR Partners
+LOGG3;LOG CP
+UNIP6;Unipar
+SCAR3;São Carlos
+MEAL3;IMC Alimentação
+TAEE3;Taesa
+VITT3;Vittia
+ITSA3;Itaúsa
+PDGR3;PDG Realty
+DMVF3;D1000 Varejo Farma
+DEXP3;Dexxos
+SAPR3;Sanepar
+AGRO3;BrasilAgro
+TCSA3;Tecnisa
+ETER3;Eternit
+ROMI3;Indústrias ROMI
+AALR3;Alliança
+POMO3;Marcopolo
+ALPK3;Estapar
+WEST3;Westwing
+DESK3;Desktop
+AERI3;Aeris Energy
+LPSB3;Lopes
+CMIG3;Cemig
+BRKM3;Braskem
+TOKY3;TOKY3
+TECN3;Technos
+RCSL3;Recrusul
+AMOB3;Automob
+SEQL3;Sequoia Logística
+ALLD3;Allied
+SANB3;Banco Santander
+BRAP3;Bradespar
+CAMB3;Cambuci
+SANB4;Banco Santander
+SHOW3;Time For Fun
+IGTI3;Jereissati Participações
+IGTI3;Iguatemi
+EUCA4;Eucatex
+OIBR4;Oi
+RAPT3;Randon
+GGBR3;Gerdau
+BOBR4;Bombril
+TASA3;Taurus
+WHRL3;Whirlpool
+RNEW4;Renova Energia
+ENGI3;Energisa
+BMEB4;Banco Mercantil do Brasil
+BMEB3;Banco Mercantil do Brasil
+HAGA4;Haga
+UCAS3;Unicasa
+BEES3;Banestes
+LAND3;Terra Santa
+VIVR3;Viver
+CSUD3;CSU Cardsystem
+AGXY3;AgroGalaxy
+AVLL3;Alphaville
+EALT4;Electro Aço Altona
+GOAU3;Metalúrgica Gerdau
+DOHL4;Döhler
+DOTZ3;Dotz
+TRAD3;Traders Club
+REDE3;Rede Energia
+WHRL4;Whirlpool
+REAG3;REAG3
+CEBR3;CEB
+BSLI3;Banco de Brasília
+PDTC3;Padtec
+CGRA4;Grazziotin
+CEBR6;CEB
+GSHP3;General Shopping & Outlets
+ALUP4;Alupar
+MTSA4;Metisa
+VSTE3;LE LIS BLANC
+BAZA3;Banco da Amazônia
+CEDO4;Cedro Têxtil
+RNEW3;Renova Energia
+LOGN3;Log-In
+INEP3;Inepar
+ATED3;ATOM EDUCAÇÃO E EDITORA S.A.
+PTNT3;Pettenati
+UNIP3;Unipar
+BRSR3;Banrisul
+LVTC3;WDC Networks
+CLSC4;Celesc
+OFSA3;Ourofino Saúde Animal
+BEES4;Banestes
+EQPA3;Equatorial Energia Pará
+ALPA3;Alpargatas
+JFEN3;João Fortes
+ENGI4;Energisa
+EPAR3;Embpar Participações
+ALUP3;Alupar
+FHER3;Fertilizantes Heringer
+CEBR5;CEB
+NGRD3;Neogrid
+AZEV11;Azevedo & Travassos
+TPIS3;Triunfo
+MNPR3;Minupar
+COCE5;Coelce
+BPAC3;Banco BTG Pactual
+OSXB3;OSX Brasil
+NEXP3;Brasil Brokers
+EMAE4;EMAE
+BIOM3;Biomm
+NUTR3;Nutriplant
+AMAR11;Lojas Marisa
+CRPG5;Tronox Pigmentos
+RSID3;Rossi Residencial
+CGRA3;Grazziotin
+INEP4;Inepar
+RSUL4;Metalúrgica Riosulense
+ISAE3;ISA Energia
+RPAD3;Alfa Holdings
+MWET4;Wetzel
+BPAC5;Banco BTG Pactual
+BNBR3;Banco do Nordeste
+GEPA4;Rio Paranapanema Energia
+DEXP4;Dexxos
+PINE3;Banco Pine
+PLAS3;Plascar
+RNEW11;Renova Energia
+CGAS5;Comgás
+MNDL3;Mundial
+MAPT4;Cemepe
+RDNI3;RNI
+HETA4;Hercules
+GEPA3;Rio Paranapanema Energia
+BGIP4;Banese
+WLMM4;WLM
+PINE11;Banco Pine
+AFLT3;Afluente T
+TELB4;Telebras
+ESTR4;Estrela
+SNSY5;Sansuy
+HAGA3;Haga
+UNIP5;Unipar
+HBTS5;Habitasul
+FIEI3;Fica
+RVEE3;REVEE S.A.
+RVEE3;REVEE
+BALM4;Baumer
+CPLE5;Copel
+TELB3;Telebras
+BSLI4;Banco de Brasília
+FICT3;Fictor Alimentos
+RPMG3;Refinaria de Manguinhos
+CTSA4;Santanense
+PPLA11;PPLA
+BMKS3;Monark
+MGEL4;Mangels
+BIED3;BIED3
+CTSA3;Santanense
+PATI3;Panatlântica
+HOOT4;Hotéis Othon
+LUXM4;Trevisa
+EUCA3;Eucatex
+CBEE3;Ampla Energia
+EALT3;Electro Aço Altona
+BALM3;Baumer
+EKTR4;Elektro
+CEEB3;COELBA
+COCE3;Coelce
+BMIN4;Banco Mercantil de Investimentos
+CEED3;CEEE D
+LUPA11;LUPA11
+EQMA3B;Equatorial Maranhão
+BAUH4;Excelsior
+TKNO4;Tekno
+PEAB3;Participações Aliança da Bahia
+IGTI4;Jereissati Participações
+IGTI4;Iguatemi
+SOND5;Sondotécnica
+ENMT4;Energisa MT
+SOND6;Sondotécnica
+CCTY3;RDVC CITY
+CCTY3;REDVECO PROPERTIES S.A
+EMAE3;EMAE
+MOAR3;Monteiro Aranha
+BDLL3;Bardella
+CTKA4;Karsten
+SNSY3;Sansuy
+ENMT3;Energisa MT
+CTKA3;Karsten
+MRSA3B;MRS Logística
+CLSC3;Celesc
+FESA3;Ferbasa
+BRKM6;Braskem
+CRPG6;Tronox Pigmentos
+FRIO3;Metalfrio
+WLMM3;WLM
+PSVM11;PORTO VM
+MRSA5B;MRS Logística
+DTCY3;Dtcom
+CGAS3;Comgás
+CEEB5;COELBA
+NORD3;Nordon
+BMIN3;Banco Mercantil de Investimentos
+CEDO3;Cedro Têxtil
+CRPG3;Tronox Pigmentos
