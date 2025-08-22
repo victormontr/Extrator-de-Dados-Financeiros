@@ -11,6 +11,7 @@ from datetime import datetime, timedelta  # Importa timedelta para manipulação
 
 import pandas as pd
 import yfinance as yf  # Biblioteca para obter dados financeiros
+import requests.exceptions # Adiciona a importação para tratar erros de conexão
 from tkcalendar import DateEntry  # Widget de calendário para seleção de datas
 
 # --- Configurações de Ambiente ---
@@ -252,8 +253,13 @@ class App(tk.Tk):
             messagebox.showinfo("Sucesso", f"Dados salvos em:\n{caminho}")
             self.status_label.config(text="Dados salvos com sucesso.")
 
+        # Novo bloco de exceção para erros de conexão
+        except requests.exceptions.ConnectionError:
+            messagebox.showerror("Erro de Conexão", "Não foi possível conectar. Verifique sua conexão com a internet.")
+            self.status_label.config(text="Erro de conexão.")
+            
         except Exception as e:
-            # Exibe erro em caso de falha na busca
+            # Exibe erro em caso de falha na busca (erros genéricos)
             messagebox.showerror("Erro Inesperado", f"Ocorreu um erro: {e}")
             self.status_label.config(text="Erro durante a busca.")
 
